@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario fecha_actualizacion="2024-12-31" tienda="GameZone Lima">
+  <juego id="JV001">
+    <titulo>God of War Ragnarök</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>14</stock>
+        <precio>299.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PS4">
+        <stock>6</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV002">
+    <titulo>Elden Ring</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>9</stock>
+        <precio>249.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>5</stock>
+        <precio>249.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>12</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV003">
+    <titulo>FIFA 24</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>18</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>8</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>7</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Switch">
+        <stock>10</stock>
+        <precio>209.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>14</stock>
+        <precio>199.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV004">
+    <titulo>The Legend of Zelda: Tears of the Kingdom</titulo>
+    <plataformas>
+      <plataforma nombre="Switch">
+        <stock>11</stock>
+        <precio>279.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV005">
+    <titulo>Marvel's Spider-Man 2</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>8</stock>
+        <precio>299.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV006">
+    <titulo>Hogwarts Legacy</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>13</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>6</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Switch">
+        <stock>9</stock>
+        <precio>209.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>20</stock>
+        <precio>199.90</precio>
+        <umbral_reposicion>8</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV007">
+    <titulo>Call of Duty: Modern Warfare III</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>15</stock>
+        <precio>249.90</precio>
+        <umbral_reposicion>6</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>8</stock>
+        <precio>249.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>10</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV008">
+    <titulo>Mortal Kombat 1</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>11</stock>
+        <precio>239.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>7</stock>
+        <precio>239.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Switch">
+        <stock>4</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>9</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV009">
+    <titulo>Mario Kart 8 Deluxe</titulo>
+    <plataformas>
+      <plataforma nombre="Switch">
+        <stock>22</stock>
+        <precio>199.90</precio>
+        <umbral_reposicion>8</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV010">
+    <titulo>Resident Evil 4 Remake</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>12</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>5</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>8</stock>
+        <precio>209.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV011">
+    <titulo>Baldur's Gate 3</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>10</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>15</stock>
+        <precio>199.90</precio>
+        <umbral_reposicion>6</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV013">
+    <titulo>Gran Turismo 7</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>8</stock>
+        <precio>269.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PS4">
+        <stock>5</stock>
+        <precio>229.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV015">
+    <titulo>Diablo IV</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>9</stock>
+        <precio>239.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>6</stock>
+        <precio>239.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>11</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV016">
+    <titulo>Final Fantasy XVI</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>7</stock>
+        <precio>289.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV017">
+    <titulo>Dead Space Remake</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>8</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>4</stock>
+        <precio>219.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>7</stock>
+        <precio>199.90</precio>
+        <umbral_reposicion>3</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV018">
+    <titulo>Minecraft</titulo>
+    <plataformas>
+      <plataforma nombre="Switch">
+        <stock>30</stock>
+        <precio>129.90</precio>
+        <umbral_reposicion>10</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>18</stock>
+        <precio>129.90</precio>
+        <umbral_reposicion>8</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>25</stock>
+        <precio>109.90</precio>
+        <umbral_reposicion>10</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV019">
+    <titulo>Super Mario Bros. Wonder</titulo>
+    <plataformas>
+      <plataforma nombre="Switch">
+        <stock>16</stock>
+        <precio>249.90</precio>
+        <umbral_reposicion>6</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+  <juego id="JV020">
+    <titulo>Cyberpunk 2077</titulo>
+    <plataformas>
+      <plataforma nombre="PS5">
+        <stock>12</stock>
+        <precio>179.90</precio>
+        <umbral_reposicion>5</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="Xbox">
+        <stock>8</stock>
+        <precio>179.90</precio>
+        <umbral_reposicion>4</umbral_reposicion>
+      </plataforma>
+      <plataforma nombre="PC">
+        <stock>20</stock>
+        <precio>159.90</precio>
+        <umbral_reposicion>8</umbral_reposicion>
+      </plataforma>
+    </plataformas>
+  </juego>
+</inventario>

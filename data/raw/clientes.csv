@@ -1,0 +1,51 @@
+cliente_id,nombre,edad,genero,distrito,email,fecha_registro,nivel_membresia
+C001,Alejandro Torres,28,M,Miraflores,alejandro.torres@gmail.com,2022-03-15,Gold
+C002,Valeria Quispe,22,F,Surco,valeria.quispe@hotmail.com,2023-06-20,Silver
+C003,Diego Mamani,19,M,Los Olivos,diego.mamani@gmail.com,2024-01-10,Básico
+C004,Camila Flores,31,F,San Isidro,camila.flores@gmail.com,2022-08-05,Platinum
+C005,Rodrigo Cárdenas,24,M,La Molina,rodrigo.cardenas@yahoo.com,2023-02-14,Silver
+C006,Sofía Mendoza,26,F,Jesús María,sofia.mendoza@gmail.com,2022-11-30,Gold
+C007,Mateo Huanca,17,M,Breña,mateo.huanca@gmail.com,2024-03-22,Básico
+C008,Lucía Vargas,29,F,Surco,lucia.vargas@hotmail.com,2022-07-18,Gold
+C009,Sebastián Paredes,21,M,SJL,sebastian.paredes@gmail.com,2023-09-05,Silver
+C010,Isabella Castro,33,F,Lince,isabella.castro@gmail.com,2022-05-12,Gold
+C011,Nicolás Ramos,25,M,Miraflores,nicolas.ramos@gmail.com,2022-01-08,Platinum
+C012,Valentina Cruz,18,F,San Borja,valentina.cruz@hotmail.com,2024-02-28,Básico
+C013,Emilio Gutiérrez,27,M,Callao,emilio.gutierrez@gmail.com,2023-04-17,Silver
+C014,Antonella Rivera,23,F,La Molina,antonella.rivera@gmail.com,2023-07-09,Gold
+C015,Joaquín Salinas,35,M,Miraflores,joaquin.salinas@gmail.com,2022-02-20,Platinum
+C016,Mariana Espinoza,20,F,Surco,mariana.espinoza@hotmail.com,2024-01-05,Básico
+C017,Bruno Medina,28,M,Los Olivos,bruno.medina@gmail.com,2023-03-11,Silver
+C018,Fernanda Lara,30,F,San Isidro,fernanda.lara@gmail.com,2022-09-25,Gold
+C019,Ángel Rojas,16,M,SJL,angel.rojas@gmail.com,2024-04-03,Básico
+C020,Daniela Aguilar,24,F,Miraflores,daniela.aguilar@hotmail.com,2023-05-19,Silver
+C021,Samuel Chávez,32,M,San Borja,samuel.chavez@gmail.com,2022-10-07,Gold
+C022,Paola Reyes,27,F,Jesús María,paola.reyes@gmail.com,2023-01-23,Silver
+C023,Tomás Guerrero,22,M,Breña,tomas.guerrero@yahoo.com,2024-01-30,Básico
+C024,Gabriela Morales,34,F,La Molina,gabriela.morales@gmail.com,2022-04-14,Platinum
+C025,Matías Herrera,19,M,Lince,matias.herrera@gmail.com,2024-03-08,Básico
+C026,Renata Jiménez,26,F,Surco,renata.jimenez@hotmail.com,2023-08-16,Silver
+C027,Marcelo Soto,29,M,Callao,marcelo.soto@gmail.com,2022-12-01,Gold
+C028,Claudia Peña,23,F,Miraflores,claudia.pena@gmail.com,2023-06-27,Silver
+C029,Alexis Villanueva,31,M,Los Olivos,alexis.villanueva@gmail.com,2022-06-09,Gold
+C030,Natalia Romero,25,F,San Isidro,natalia.romero@gmail.com,2022-03-28,Platinum
+C031,Christian Luna,20,M,Breña,christian.luna@hotmail.com,2024-02-12,Básico
+C032,Pamela Ortiz,28,F,Surco,pamela.ortiz@gmail.com,2023-10-04,Silver
+C033,Franco Delgado,33,M,La Molina,franco.delgado@gmail.com,2022-07-22,Gold
+C034,Jimena Castillo,22,F,San Borja,jimena.castillo@gmail.com,2023-11-14,Silver
+C035,Mauricio Vega,27,M,Miraflores,mauricio.vega@yahoo.com,2023-02-05,Gold
+C036,Adriana Campos,21,F,Callao,adriana.campos@gmail.com,2024-03-19,Básico
+C037,Kevin Molina,24,M,Los Olivos,kevin.molina@hotmail.com,2023-07-31,Silver
+C038,Stephanie Ramos,29,F,Jesús María,stephanie.ramos@gmail.com,2022-09-10,Gold
+C039,Luis Fuentes,17,M,SJL,luis.fuentes@gmail.com,2024-04-25,Básico
+C040,Carolina Ponce,32,F,La Molina,carolina.ponce@gmail.com,2022-05-03,Platinum
+C041,Roberto Suárez,26,M,Breña,roberto.suarez@hotmail.com,2023-04-20,Silver
+C042,Andrea Blanco,23,F,Miraflores,andrea.blanco@gmail.com,2023-08-08,Gold
+C043,Eduardo Zapata,35,M,Surco,eduardo.zapata@gmail.com,2022-02-17,Platinum
+C044,Milagros Núñez,19,F,San Borja,milagros.nunez@gmail.com,2024-01-22,Básico
+C045,Fernando Alvarado,28,M,Lince,fernando.alvarado@yahoo.com,2023-05-06,Silver
+C046,Daniela Portillo,24,F,Los Olivos,daniela.portillo@gmail.com,2023-09-29,Gold
+C047,Alejandra Ríos,30,F,San Isidro,alejandra.rios@gmail.com,2023-03-15,Silver
+C048,Miguel Salas,22,M,Callao,miguel.salas@hotmail.com,2024-02-07,Básico
+C049,Lucero Tapia,27,F,Miraflores,lucero.tapia@gmail.com,2022-11-18,Gold
+C050,Carlos Benites,31,M,Surco,carlos.benites@gmail.com,2023-06-02,Silver

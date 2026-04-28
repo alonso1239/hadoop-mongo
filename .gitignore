@@ -37,3 +37,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Big Data / Python ###
+data/processed/
+__pycache__/
+*.pyc
+*.pyo
+*.log
